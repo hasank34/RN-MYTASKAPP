@@ -36,23 +36,6 @@ sizlerle React Native kullanarak geliştirdiğim Task Management (Görev Yöneti
 
 - ✅ Hızlı ve Optimize Performans: React Native’in güçlü yapısı sayesinde akıcı bir kullanıcı deneyimi. ⚡
 
-#### 💡 Bu Projeyi Geliştirirken Neler Öğrendim?
 
-
-- 🔸 UI Kitten & Eva Design kullanarak tema yönetimini nasıl daha esnek hale getirebileceğimi öğrendim. 🎨
-
-- 🔸 Formik ve Yup ile form doğrulama işlemlerinin nasıl daha güvenli yapılabileceğini deneyimledim. 🛡️
-
-- 🔸 Async Storage ile verileri kalıcı olarak saklamanın önemini ve performans optimizasyonlarını test ettim. 🏗️
-
-- 🔸 React Navigation kullanarak ekranlar arası geçişleri daha dinamik hale getirdim. 🔄
-
-🚀 Bu tarz projeler ilginizi çekiyor mu? Sizce bu uygulamaya başka hangi özellikler eklenebilir? Fikirlerinizi ve önerilerinizi yorumlarda bekliyorum! 💬✨
-
-Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7291618985849098241/
-
-💙 Eğer beğendiyseniz, destek olmak için beğenmeyi ve paylaşmayı unutmayın!
-
-#ReactNative #MobileDevelopment #TaskApp #UIKitten #AsyncStorage #Formik #Yup #JavaScript #SoftwareDevelopment
 
 <img src="myTaskApp.gif"># RN-MYTASKAPP
